@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일.md",
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "무제 파일.md",
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일.md"
+            "file": "Test.md"
           }
         }
       }
@@ -133,6 +133,6 @@
   },
   "active": "c58c5265b2f679d7",
   "lastOpenFiles": [
-    "무제 파일.md"
+    "Test.md"
   ]
 }
